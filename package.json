@@ -1,0 +1,27 @@
+{
+  "name": "zip2playlistbot",
+  "version": "1.0.0",
+  "description": "\"creates a playlist using a zip file with mp3 files inside\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SartajSidhu/zip2playlist.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SartajSidhu/zip2playlist/issues"
+  },
+  "homepage": "https://github.com/SartajSidhu/zip2playlist#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "node-fetch": "^2.6.7"
+  }
+}
