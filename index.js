@@ -1,5 +1,5 @@
 
-const token = "MTAyMTA2NDk0NjgxMDg5NjQ4NA.GJ-YKe.V9XKfZgylaK5moLJ1Y65Q0pJbmlNjvQVjclKUQ";  //token for discord app
+const token = "Insert discord bot token";  //token for discord app
 
 const { Client, GatewayIntentBits, Collection, EmbedBuilder, PermissionsBitField, Permissions, Message } = require(`discord.js`);
 
