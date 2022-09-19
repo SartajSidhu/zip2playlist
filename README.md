@@ -5,4 +5,4 @@ then creates a spotify playlist utilizing spotify web api node js
 
 Here is a test run in my own server:
 
-![](Discord playlist.png)
+![](node_modules/discordPlaylist.png)
